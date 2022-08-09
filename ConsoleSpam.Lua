@@ -1,3 +1,3 @@
 while wait() do
-print ("ez")
+print ("legkobuch")
 end
